@@ -40,7 +40,7 @@
       ],
       "secrets": [
         {
-          "valueFrom": "<<TODO: set ARN of secrets manager>>",
+          "valueFrom": "arn:aws:secretsmanager:eu-central-1:654654326768:secret:Github_secret-FXKLrS",
           "name": "SPRING_APPLICATION_JSON"
         }
       ],
